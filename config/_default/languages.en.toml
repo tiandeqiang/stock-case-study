@@ -1,0 +1,11 @@
+languageCode = "en-US"
+languageName = "English"
+weight = 2
+title = "Stock Case Study"
+description = "Deconstructing Economic Moats, Business Models & Market Post-Mortems."
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+
+

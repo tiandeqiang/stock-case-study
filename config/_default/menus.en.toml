@@ -1,0 +1,37 @@
+# 1. Main dropdown category
+[[main]]
+  name = "Legendary-Case-Study"
+  identifier = "cases_dropdown"
+  weight = 1
+
+# 2. Sub-item 1
+[[main]]
+  name = "warren-buffett"
+  parent = "cases_dropdown"
+  url = "/en/tags/warren-buffett/"
+  weight = 1
+
+[[main]]
+  name = "Charlie-Munger"
+  parent = "cases_dropdown"
+  url = "/en/tags/Charlie-Munger/"
+  weight = 2
+
+[[main]]
+  name = "Yongping-Duan"
+  parent = "cases_dropdown"
+  url = "/en/tags/Yongping-Duan/"
+  weight = 3
+
+[[main]]
+  name = "Dan-Bin"
+  parent = "cases_dropdown"
+  url = "/en/tags/Dan-Bin/"
+  weight = 4
+
+[[main]]
+  name = "Bill-Ackman"
+  parent = "cases_dropdown"
+  url = "/en/tags/Bill-Ackman/"
+  weight = 5
+

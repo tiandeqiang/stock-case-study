@@ -1,0 +1,15 @@
+
+disableLanguageSwitchingButton = false
+logo = "images/logo.png"
+
+[homepage]
+  layout = "background"
+  showRecent = true
+  showRecentItems = 6
+  cardView = true
+
+[header]
+  layout = "basic"
+
+[footer]
+  showThemeAttribution = false
