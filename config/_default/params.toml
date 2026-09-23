@@ -1,4 +1,5 @@
 
+defaultAppearance = "dark"
 disableLanguageSwitchingButton = false
 logo = "images/logo.png"
 
