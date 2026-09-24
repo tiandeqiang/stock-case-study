@@ -1,7 +1,7 @@
 languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
-title = "股票案例研究"
+title = "股票案例"
 description = "拆解商业护城河，复盘市场成与败。立足基本面与逆向思维的深度案例库。"
 
 [params]
