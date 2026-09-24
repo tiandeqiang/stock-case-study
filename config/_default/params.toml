@@ -10,6 +10,7 @@ logo = "images/logo.png"
 
 [header]
   layout = "basic"
+  showTitle = false
 
 [footer]
   showThemeAttribution = false

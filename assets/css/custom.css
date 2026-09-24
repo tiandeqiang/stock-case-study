@@ -19,4 +19,8 @@
         width: auto !important;
     }
 }
+/* 精准隐藏顶部导航栏的文字标题 */
+header .main-menu a.text-base.font-medium.truncate {
+    display: none !important;
+}
 
