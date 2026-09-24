@@ -3,3 +3,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme = "blowfish"
 hasCJKLanguage = true
+
+[outputs]
+   home = ["HTML","RSS","JSON"]
+

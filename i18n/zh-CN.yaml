@@ -1,0 +1,5 @@
+global:
+  language: "中文"
+
+shortcode:
+  recent_articles: "最新的案例"

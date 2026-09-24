@@ -1,11 +1,11 @@
-languageCode = "zh-CN"
-languageName = "简体中文"
+languageCode = "zh-cn"
+languageName = "中文"
 weight = 1
 title = "股票案例研究"
 description = "拆解商业护城河，复盘市场成与败。立足基本面与逆向思维的深度案例库。"
 
 [params]
   displayName = "中文"
-  isoCode = "zh-CN"
+  isoCode = "zh"
 
 

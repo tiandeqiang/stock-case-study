@@ -13,3 +13,5 @@ logo = "images/logo.png"
 
 [footer]
   showThemeAttribution = false
+[params]
+  enableSearch = true
