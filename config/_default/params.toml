@@ -15,3 +15,5 @@ logo = "images/logo.png"
   showThemeAttribution = false
 [params]
   enableSearch = true
+[main]
+  enableCustomCSS = true
