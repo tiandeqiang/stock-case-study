@@ -6,7 +6,7 @@
 
 # 2. Sub-item 1
 [[main]]
-  name = "warren-buffett"
+  name = "Warren-Buffett"
   parent = "cases_dropdown"
   url = "/en/tags/warren-buffett/"
   weight = 1
